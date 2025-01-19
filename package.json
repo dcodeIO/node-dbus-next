@@ -35,15 +35,12 @@
     "url": "http://github.com/dbusjs/node-dbus-next.git"
   },
   "dependencies": {
+    "@nornagon/put": "0.0.8",
     "event-stream": "3.3.4",
     "jsbi": "^2.0.5",
     "long": "^4.0.0",
-    "@nornagon/put": "0.0.8",
     "safe-buffer": "^5.1.1",
     "xml2js": "^0.4.17"
-  },
-  "optionalDependencies": {
-    "usocket": "^1.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.1.5",
