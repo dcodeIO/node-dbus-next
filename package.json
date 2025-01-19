@@ -40,7 +40,7 @@
     "jsbi": "^2.0.5",
     "long": "^4.0.0",
     "safe-buffer": "^5.1.1",
-    "xml2js": "^0.4.17"
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "@babel/core": "^7.1.5",
